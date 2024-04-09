@@ -1,4 +1,4 @@
-<h1 align="center">🔥Realtime Violence Detection WebApp - DL | OPENCV | STREAMLIT | PYTHON🔥</h1>
+<h1 align="center">🔥Realtime Violence Detection WebApp - DL | OPENCV | STREAMLIT | PYTHON🔥 </h1>
 
 <p align="center">
  
@@ -26,7 +26,7 @@
 
 1. **Clone the Repository**
    ```
-    git clone https://github.com/siddhu1919/Realtime-Violence-Detection_Using-DeepLearning-OpenCV-Streamlit.git
+   git clone https://github.com/siddhu1919/Realtime-Violence-Detection_Using-DeepLearning-OpenCV-Streamlit.git
    ```
 
 2. **Install Requirements**
@@ -68,8 +68,12 @@ Navigate to the URL provided in the command line output to access the web app.
 ### 📸 Screenshots
 
 <p align="center">
-<img src="https://your-image-link.com/screenshot1.png" alt="App Screenshot 1" width="45%"/>
-<img src="https://your-image-link.com/screenshot2.png" alt="App Screenshot 2" width="45%"/>
+![1](https://github.com/siddhu1919/Realtime-Violence-Detection_Using-DeepLearning-OpenCV-Streamlit/assets/85176765/18f24e9b-0939-41f6-9db2-3e60618297ab)
+![2](https://github.com/siddhu1919/Realtime-Violence-Detection_Using-DeepLearning-OpenCV-Streamlit/assets/85176765/d152ec2f-21f1-4f4d-a53f-218b297ef96c)
+![3](https://github.com/siddhu1919/Realtime-Violence-Detection_Using-DeepLearning-OpenCV-Streamlit/assets/85176765/921cc729-83e9-4141-bdd2-be0e14636943)
+
+
+
 </p>
 
 ---
@@ -82,14 +86,14 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 ### 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://your-repository-link.com/violence-detection/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check .
 
 ---
 
 ### 💖 Support
 
-Loved this project? Consider giving it a ⭐ on [GitHub](https://your-repository-link.com/violence-detection) and sharing it with your friends!
+Loved this project? Consider giving it a ⭐ on [GitHub](git clone https://github.com/siddhu1919/Realtime-Violence-Detection_Using-DeepLearning-OpenCV-Streamlit.git) and sharing it with your friends!
 
 ---
 
-<p align="center">Made with ❤️ and 🚀 by <a href="your-profile-link.com">Your Name</a></p>
+<p align="center">Made with ❤️ and 🚀 by <a href="your-profile-link.com">S I D D H A R T H . G . S I N G H</a></p>
