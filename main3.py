@@ -13,9 +13,15 @@ def save_frame(frame):
     filename = os.path.join("frames", f"frame_{timestamp}.jpg")
     cv2.imwrite(filename, frame)
 
-# Create the 'frames' directory if it doesn't exist
+    # Create the 'frames' directory if it doesn't exist
+
+
 if not os.path.exists("frames"):
-    os.makedirs("frames")
+    try:
+        os.makedirs("frames")
+    except FileExistsError:
+        pass  # Directory already exists, do nothing
+
 
 # Initialize session states
 if "capture" not in st.session_state:
@@ -24,7 +30,16 @@ if "frame_count" not in st.session_state:
     st.session_state.frame_count = 0  # To count frames for periodic prediction
 
 # UI
-st.title("Violence Detection with ML & OpenCV")
+
+st.set_page_config(
+   page_title="Realtime Violence Detection 🔴",
+   page_icon="🛡️",
+   layout="wide",
+   initial_sidebar_state="expanded",
+)
+
+st.title("D A S H B O A R D 📱")
+# st.header('D A S H B O A R D 📱', divider='rainbow')
 
 # Placeholder for displaying messages
 message_placeholder = st.empty()
@@ -33,7 +48,28 @@ message_placeholder = st.empty()
 video_container = st.empty()
 
 # Buttons for starting and stopping video capture
-col1, col2 ,col3= st.columns(3)  # Adjust back to 2 columns, integrate Predict inside Start
+col1, col2, col3 = st.columns(
+    3
+)  # Adjust back to 2 columns, integrate Predict inside Start
+
+
+
+
+
+
+
+
+
+
+
+with st.sidebar:
+        st.image("stop violence.png")
+        st.title("Realtime Violence Detection 🔴")
+
+
+
+
+
 
 with col1:
     if st.button("Start"):
@@ -54,21 +90,20 @@ with col2:
         message_placeholder.success("Video capturing has been stopped.")
 
 
-
-dir_path = 'frames'
+dir_path = "frames"
 with col3:
-        if os.path.exists(dir_path):
-    # Display a button in the Streamlit app to delete the directory
-            if st.button('Delete Directory'):
-        # Attempt to delete the directory
-                try:
-                    shutil.rmtree(dir_path)
-                    st.success(f'Directory "{dir_path}" has been deleted successfully.')
-                except Exception as e:
-                    st.error(f'Error: {e}')
-        else:
-            st.write(f'Directory "{dir_path}" does not exist.')
-       
+    if os.path.exists(dir_path):
+        # Display a button in the Streamlit app to delete the directory
+        if st.button("Delete Directory"):
+            # Attempt to delete the directory
+            try:
+                shutil.rmtree(dir_path)
+                st.success(f'Directory "{dir_path}" has been deleted successfully.')
+            except Exception as e:
+                st.error(f"Error: {e}")
+    else:
+        st.write(f'Directory "{dir_path}" does not exist.')
+
 
 # Capture and display loop with integrated prediction
 if st.session_state.capture:
@@ -95,3 +130,4 @@ if st.session_state.capture:
             prediction = predict_frames_from_folder(frames_folder_path)
             prediction_placeholder.markdown("### Prediction Result")
             prediction_placeholder.write(prediction)
+
