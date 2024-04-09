@@ -95,7 +95,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check .
 
 Follow This Contributors :
 1. [Siddhant G Singh](https://www.linkedin.com/in/siddhantsingh1230/) ⭐ 
-2. [<img height="20" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">](https://github.com/Siddhantsingh1230) 
+2. [<img height="30" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">](https://github.com/Siddhantsingh1230) 
 
 
 
