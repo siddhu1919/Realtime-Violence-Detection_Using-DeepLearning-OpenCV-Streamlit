@@ -1,4 +1,4 @@
-<h1 align="center">🔥Realtime Violence Detection WebApp - DL | OPENCV | STREAMLIT🔥 </h1>
+<h1 align="center">🔥Realtime Violence Detection WebApp - DL | OPENCV | STREAMLIT🔥</h1>
 
 <p align="center">
  
