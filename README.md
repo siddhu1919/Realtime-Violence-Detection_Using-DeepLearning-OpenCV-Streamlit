@@ -27,20 +27,22 @@
 1. **Clone the Repository**
 
  ```
-     git clone https://github.com/siddhu1919/Realtime-Violence-Detection_Using-DeepLearning-OpenCV-Streamlit.git
+ git clone https://github.com/siddhu1919/Realtime-Violence-Detection_Using-DeepLearning-OpenCV-Streamlit.git
  ```
 
 3. **Install Requirements**
 
 Ensure you have Python installed, then run:
-   ```
-    python -m pip install -r requirements.txt
-   ```
+   
+  ```
+  python -m pip install -r requirements.txt
+  ```
 
 3. **Launch the WebApp **
- ```
-    streamlit run main3.py
- ```
+
+```
+streamlit run main3.py
+```
 
 
 Navigate to the URL provided in the command line output to access the web app.
