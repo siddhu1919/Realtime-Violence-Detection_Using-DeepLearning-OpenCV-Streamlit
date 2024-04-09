@@ -97,7 +97,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check .
 
 ### 💖 Support
 
-Loved this project? Consider giving it a ⭐ on [GitHub](git clone https://github.com/siddhu1919/Realtime-Violence-Detection_Using-DeepLearning-OpenCV-Streamlit.git) and sharing it with your friends!
+Loved this project? Consider giving it a ⭐ on [[GitHub]](https://github.com/siddhu1919) and sharing it with your friends!
 
 ---
 
