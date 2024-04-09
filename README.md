@@ -72,7 +72,9 @@ Navigate to the URL provided in the command line output to access the web app.
 
 
 ![1](https://github.com/siddhu1919/Realtime-Violence-Detection_Using-DeepLearning-OpenCV-Streamlit/assets/85176765/18f24e9b-0939-41f6-9db2-3e60618297ab)
+
 ![2](https://github.com/siddhu1919/Realtime-Violence-Detection_Using-DeepLearning-OpenCV-Streamlit/assets/85176765/d152ec2f-21f1-4f4d-a53f-218b297ef96c)
+
 ![3](https://github.com/siddhu1919/Realtime-Violence-Detection_Using-DeepLearning-OpenCV-Streamlit/assets/85176765/921cc729-83e9-4141-bdd2-be0e14636943)
 
 
