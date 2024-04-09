@@ -94,8 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 Contributions, issues, and feature requests are welcome! Feel free to check .
 
 Follow This Contributors :
-1. [Siddhant G Singh](https://www.linkedin.com/in/siddhantsingh1230/) ⭐ <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="20" height="20" alt="GitHub Dark">
-
+1. [Siddhant G Singh](https://www.linkedin.com/in/siddhantsingh1230/) <img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"> ⭐ 
 
 
 
