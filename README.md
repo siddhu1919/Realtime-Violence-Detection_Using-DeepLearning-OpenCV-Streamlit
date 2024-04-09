@@ -25,11 +25,12 @@
 ### 🚀 Quick Start
 
 1. **Clone the Repository**
-   ```
-     git clone https://github.com/siddhu1919/Realtime-Violence-Detection_Using-DeepLearning-OpenCV-Streamlit.git
-   ```
 
-2. **Install Requirements**
+ ```
+     git clone https://github.com/siddhu1919/Realtime-Violence-Detection_Using-DeepLearning-OpenCV-Streamlit.git
+ ```
+
+3. **Install Requirements**
 
 Ensure you have Python installed, then run:
    ```
