@@ -59,7 +59,7 @@ Navigate to the URL provided in the command line output to access the web app.
 ---
 
 ### 🔗 Download Models from Drive 
-- `Download`: The Two Models and Paste in root directory.
+- `Download`: The Models folder and Paste in root directory.
 - [Drive Link 🚗](https://drive.google.com/drive/folders/1as5dVbfdz7WRFYcI0Ce2QGRzC3-TBgtH?usp=drive_link) 
 
 ---
