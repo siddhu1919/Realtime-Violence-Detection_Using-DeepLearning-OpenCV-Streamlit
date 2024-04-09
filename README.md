@@ -26,7 +26,7 @@
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/siddhu1919/Realtime-Violence-Detection_Using-DeepLearning-OpenCV-Streamlit.git
+     git clone https://github.com/siddhu1919/Realtime-Violence-Detection_Using-DeepLearning-OpenCV-Streamlit.git
    ```
 
 2. **Install Requirements**
