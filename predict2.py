@@ -18,7 +18,7 @@ SEQUENCE_LENGTH = 16
 CLASSES_LIST = ["NonViolence", "Violence"]
 
 # Load your trained model
-MoBiLSTM_model = load_model("models\BILSTM_RESNET_MODEL.h5")
+model = load_model("models\BILSTM_RESNET_MODEL.h5")
 
 
 def process_frames(frames_list, batch_number):
@@ -26,7 +26,7 @@ def process_frames(frames_list, batch_number):
     Process and predict the given list of frames, including the batch number in the output.
     """
     frames_array = np.array(frames_list)
-    predicted_labels_probabilities = MoBiLSTM_model.predict(
+    predicted_labels_probabilities = model.predict(
         np.expand_dims(frames_list, axis=0)
     )[0]
     predicted_label = np.argmax(predicted_labels_probabilities)
