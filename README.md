@@ -94,7 +94,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 Contributions, issues, and feature requests are welcome! Feel free to check .
 
 Follow This Contributors :
-1. [Siddhant G Singh](https://www.linkedin.com/in/siddhantsingh1230/) ⭐ ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+1. [Siddhant G Singh](https://www.linkedin.com/in/siddhantsingh1230/) ⭐ <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40">
+
 
 
 
