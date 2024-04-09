@@ -51,7 +51,7 @@ Navigate to the URL provided in the command line output to access the web app.
 
 ### 📂 Project Structure
 
-- `app.py`: The main Streamlit application file.
+- `main3.py`: The main Streamlit application file.
 - `model/`: Directory containing the deep learning model files.
 - `frames/`: Folder where captured frames are stored.
 - `requirements.txt`: Lists all the Python dependencies.
